@@ -102,7 +102,7 @@
     <nav class="main-menu">
       <img class="logo" src="https://ce5ef1ff17.cbaul-cdnwnd.com/4d3d4d1846514b8f7a21f3605ea4570b/200000153-ad744ad746/2.jpg?ph=ce5ef1ff17" alt="Logo" />
       <ul class="nav-links">
-         <li><a href="file:///C:/Users/esteban%20laiseca%20hoyo/OneDrive/Escritorio/ARTICULO%20INVESTIGATIVO/CODIGO%20HTML/PAGINA%20ORIGINAL/P%C3%A1gina%20Web%20PRINCIPAL.html">Inicio</a></li>
+         <li><a href="https://www.google.com/search?sca_esv=c7a973e54365ddbc&rlz=1C1ALOY_esCO1146CO1146&sxsrf=AE3TifP99hJkxFqNZuGkXF12gdstPL7-wg:1753483967507&udm=2&fbs=AIIjpHx4nJjfGojPVHhEACUHPiMQht6_BFq6vBIoFFRK7qchKBv8IM7dq8CEqHDU3BN7lbmYnvYQ6rIhpD6d6bj_VyqCDVICi0aYslRFVg6x8lIId9pHGh2yQ6AdokkDbdE8SxRjsoSBpuoXsxoKnsz1OoNjJ39L0ocarmhH8lzWqXbAVmk_vocmecBgweT3EZPIx6jW0-MHSAdfewbCNzOtBWR9eGygTg&q=sistema+locomotor&sa=X&sqi=2&ved=2ahUKEwjzuoLojNmOAxXcSjABHb7vPAcQtKgLegQIHBAB&biw=1280&bih=665&dpr=1.5#vhid=EoVSABbZHulJtM&vssid=mosaic">Inicio</a></li>
         <li><a href="file:///C:/Users/esteban%20laiseca%20hoyo/OneDrive/Escritorio/ARTICULO%20INVESTIGATIVO/CODIGO%20HTML/PAGINA%20ORIGINAL/Problematica.html">Sist. Locomotor</a></li>
         <li><a href="file:///C:/Users/esteban%20laiseca%20hoyo/OneDrive/Escritorio/ARTICULO%20INVESTIGATIVO/CODIGO%20HTML/PAGINA%20ORIGINAL/Introducci%C3%B3n.html">Sist. Cardiorespiratorio</a></li>
         <li><a href="file:///C:/Users/esteban%20laiseca%20hoyo/OneDrive/Escritorio/ARTICULO%20INVESTIGATIVO/CODIGO%20HTML/PAGINA%20ORIGINAL/Resultados.html">Sist. Nervioso y Órganos</a></li>
